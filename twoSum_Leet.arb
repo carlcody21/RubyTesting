@@ -3,6 +3,6 @@
 # @return {Integer[]}
 def two_sum(nums, target)
     
-    nums.each do 
+    nums.each do test
         
 end
